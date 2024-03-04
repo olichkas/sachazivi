@@ -1,0 +1,54 @@
+[33mcommit d4d0934f506d5dbef2277c835b57f2cfbe70d48c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Alexandr_Lopata <idk@gmail.com>
+Date:   Mon Mar 4 13:09:54 2024 +0300
+
+    commit after pulling
+
+[33mcommit a3951d2cb31231e2b4759ce9f9c9db905d249380[m
+Author: Alexandr_Lopata <idk@gmail.com>
+Date:   Mon Mar 4 08:54:04 2024 +0300
+
+    revert commit from firstBranch
+
+[33mcommit 9c50fbc21fdf04af6742aba233c5786fbb65fbe8[m
+Merge: 6ae56fe 3a1b413
+Author: Alexandr_Lopata <idk@gmail.com>
+Date:   Mon Mar 4 09:04:12 2024 +0300
+
+    conflicts solved
+
+[33mcommit 6ae56fe634eda0b9fe24413818a9e92fcfbb06d1[m
+Author: Alexandr_Lopata <idk@gmail.com>
+Date:   Mon Mar 4 08:58:19 2024 +0300
+
+    commit to master branch
+
+[33mcommit 3a1b4137c872a18db438eb37a7d47a4e00dc3fb8[m[33m ([m[1;32mfirstBranch[m[33m)[m
+Author: Alexandr_Lopata <idk@gmail.com>
+Date:   Mon Mar 4 08:54:04 2024 +0300
+
+    new branch
+
+[33mcommit 99dc78c57edf732443914bb1eb5310116315220e[m
+Author: Alexandr_Lopata <idk@gmail.com>
+Date:   Mon Mar 4 08:52:52 2024 +0300
+
+    1
+
+[33mcommit 03111a3548a37ec585796ccca96bcd0c55752ea4[m
+Author: Alexandr_Lopata <idk@gmail.com>
+Date:   Mon Mar 4 08:52:40 2024 +0300
+
+    1
+
+[33mcommit f4a586044fb78ab9ec424642f9dfd20283629262[m
+Author: Alexandr_Lopata <idk@gmail.com>
+Date:   Mon Mar 4 08:50:30 2024 +0300
+
+    new branch
+
+[33mcommit b464218b0a9805a22499f68cb0da24c24036bac8[m
+Author: Alexandr_Lopata <idk@gmail.com>
+Date:   Mon Mar 4 08:35:12 2024 +0300
+
+    First commit
